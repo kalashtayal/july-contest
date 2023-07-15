@@ -1,0 +1,66 @@
+
+
+input , button{
+    display: block;
+
+}
+input{
+  
+  width: 500px;
+  height: 40px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.btn{
+    display: flex;
+    /* justify-content: space-between; */
+
+}
+.btn-1{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.btn-2{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+}
+.btn-3{
+    width: 39%;
+    height: 40px;
+    border-radius: 10px;
+    background-color: aqua;
+    color:white;
+    font-size:25px;
+    font-weight: 400;
+}
+.form-info h1{
+    text-align: left;
+}
+.form-info h2{
+    margin-left:180px;
+}
+.error{
+    color: red;
+}
+.success{
+    color: green;
+}
+.imgG{
+    display: flex;
+    margin-right: 20px;
+}
+.imgG img{
+    width: 35px;
+    height: 35px;
+}
+.imgF{
+    display: flex;
+}
+.imgF img{
+    width: 35px;
+    height: 35px;
+}
